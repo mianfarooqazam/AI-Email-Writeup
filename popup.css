@@ -1,0 +1,27 @@
+body {
+  width: 600px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 80%;
+  height: 80%;
+  padding: 20px;
+  text-align: center;
+  background-color: #FFC0CB;
+}
+
+input[type="text"],
+button,
+textarea {
+  margin: 10px 0;
+  width: 100%;
+  padding: 10px;
+}
+
+textarea {
+  height: 150px;
+}

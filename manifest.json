@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Email Writeup",
+    "version": "0.0.1",
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Email Writer",
+      "default_icon": {
+        "128": "wink.png"
+      }
+    },
+    "permissions": [
+      "activeTab",
+      "https://mail.google.com/*",
+      "https://*.hotmail.com/*"
+    ]    
+  }
