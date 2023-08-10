@@ -1,5 +1,4 @@
-# AIMailWriteup is a powerful Chrome extension designed to streamline the process of writing emails, specifically tailored for the company Archers Arena. This extension utilizes advanced artificial intelligence techniques to generate email content that is personalized, professional, and aligned with the communication style of Archers Arena.
-
+#AIMAILWRITEUP is a powerfull Chrome extension designed to streamline the process of writing emails, specifically tailored for the company Archers Arena. This extension utilized AI to generate email content that is personalized and aligned with communication style of Archers Arena.
 Features
 Effortless Email Composition: With the AI Mail Write Up extension, composing emails becomes a breeze. The extension suggests content based on the recipient, purpose, and context, saving you time and effort.
 
