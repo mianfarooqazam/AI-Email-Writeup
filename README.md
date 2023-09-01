@@ -43,8 +43,6 @@ Your feedback is crucial in improving the AI Mail Write Up extension. If you enc
 Disclaimer
 Please note that the AI Mail Write Up extension is built independently and is not officially affiliated with Archers Arena. It uses advanced AI techniques to generate email content and trigger interactions with Archers Arena, but the accuracy and effectiveness of these interactions may vary.
 
-License
-This project is licensed under the MIT License.
 
 Disclaimer: The information in this README is for illustrative purposes only. Please tailor the content to accurately reflect the features and functionality of your actual Chrome extension.
 
